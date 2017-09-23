@@ -26,7 +26,7 @@ The project is expected to meet the following requirements:
   * Google libraries will be used mainly: Google Maps API for maps, GSON for data parsing.
 
 ---
-This project is insipired from the Facebook Page [Boğaziçi Housing](https://www.facebook.com/groups/115127505293925)
+This project is insipired from the Facebook page [Boğaziçi Housing](https://www.facebook.com/groups/115127505293925)
 
 # Tracking
 ## Week 1 (18.09.2017 - 24.09.2017)
