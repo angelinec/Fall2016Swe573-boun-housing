@@ -10,11 +10,11 @@ The system is expected to be open for only people related to Boğaziçi Universi
 ## Goals
 The project is expected to meet the following requirements:
 
-⋅⋅* An authorization system that only accepts users with the mails registered to Boğaziçi Univesity (...@boun.edu.tr).
-⋅⋅* Searching houses using maps, limiting the search area.
-⋅⋅* Uses can specify the features of the house such as cost, tidiness, quietness.
-⋅⋅* Uses can communicate to each other
-⋅⋅* Provide a data analysis mechanishm to improve the system features.
+  * An authorization system that only accepts users with the mails registered to Boğaziçi Univesity (...@boun.edu.tr).
+  * Searching houses using maps, limiting the search area.
+  * Uses can specify the features of the house such as cost, tidiness, quietness.
+  * Uses can communicate to each other
+  * Provide a data analysis mechanishm to improve the system features.
 
 ## Technical Information
 The backend of the project will be implemented using Java based web servers, and the client will be implemented for mobile devices (Android users only) using Java.
