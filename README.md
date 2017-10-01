@@ -18,23 +18,14 @@ The project is expected to meet the following requirements:
   4. Uses can communicate to each other
   5. Provide a data analysis mechanishm to improve the system features.
 
-## Technical Information
+## Project Information
   * The back-end of the project will be implemented using Java based web servers using Spring MVC on IntelliJ editor.
   * MySQL will be used as database.
   * Service responses will be in JSON format.
-  * The client side of the project will be an Android android application.
+  * The client side of the project will be an Android application.
   * The mobile application will be developed using Java and (Kotlin also can be used for specific situations such as list operations) on Android Studio.
   * Material desing will be used for mobile application.
-  * Google libraries will be used mainly: Google Maps API for maps, GSON for data parsing.
+  * Google libraries will be used mainly: Google Maps Android API for maps, GSON for data parsing.
 
 ---
 This project is insipired from the Facebook page [Boğaziçi Housing](https://www.facebook.com/groups/115127505293925)
-
-# Tracking
-## Week 1 (18.09.2017 - 24.09.2017)
-
-  * __Description:__ Research conducted about how to impelement the server side for the project (database, editors, client side, data format, web framekwork).
-  * __Category:__ Research
-  * __Estimated Time:__ 6 hours
-  * __Actual Time:__ 5 hours
-  * __Status:__ Done
