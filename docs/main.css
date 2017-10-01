@@ -1,7 +1,6 @@
 ﻿#top-image {
-background:url('https://static.vecteezy.com/system/resources/previews/000/093/973/non_2x/vector-houses-pattern-background.jpg') -100px -100px;
+background:url('https://static1.squarespace.com/static/5216cfd6e4b04422e03ed7f7/t/5228b6fde4b02515a5bc90b4/1378400003681/houses.png') -100px -100px;
 width:100%;
 z-index:0;
-background-size: calc(100%);
-filter: blur(10px) grayscale(50%);
+background-size: calc(100% + 100px);
 }

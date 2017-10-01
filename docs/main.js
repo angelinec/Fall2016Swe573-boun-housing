@@ -1,5 +1,5 @@
 $(document).ready(function() {
-var movementStrength = 25;
+var movementStrength = 75;
 var height = movementStrength / $(window).height();
 var width = movementStrength / $(window).width();
 $("#top-image").mousemove(function(e){
