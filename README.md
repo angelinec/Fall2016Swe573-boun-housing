@@ -7,6 +7,8 @@ The __main aim__ of the project is to bring people togerther __who have the same
 
 The system is expected to be open for only people related to Boğaziçi University such as students, graduates or personnel so that a secure environment can be establisted.
 
+## [Project Website](https://salih-demir.github.io/Fall2016Swe573-boun-housing)
+
 ## Goals
 The project is expected to meet the following requirements:
 
